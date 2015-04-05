@@ -1,0 +1,6 @@
+c:\users\leslie\documents\visual studio 2013\Projects\WebGrap\WebGrap\bin\WebGrap.dll.config
+c:\users\leslie\documents\visual studio 2013\Projects\WebGrap\WebGrap\bin\WebGrap.dll
+c:\users\leslie\documents\visual studio 2013\Projects\WebGrap\WebGrap\bin\WebGrap.pdb
+c:\users\leslie\documents\visual studio 2013\Projects\WebGrap\WebGrap\obj\Debug\WebGrap.csprojResolveAssemblyReference.cache
+c:\users\leslie\documents\visual studio 2013\Projects\WebGrap\WebGrap\obj\Debug\WebGrap.dll
+c:\users\leslie\documents\visual studio 2013\Projects\WebGrap\WebGrap\obj\Debug\WebGrap.pdb
